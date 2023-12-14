@@ -31,4 +31,27 @@ The app detects a plane from the camera input and highlights it with black borde
 
 This app is compatible with any Android device running Android version 7.0 and above.
 
+## How to Use
+
+To access the AR Plant Showcase App, follow these steps:
+
+1. Download the application from the provided link: [AR Plant Showcase App](https://mahindraecolecentrale-my.sharepoint.com/:f:/g/personal/kuldeep20uari083_mahindrauniversity_edu_in/Egx1gFBggqxLvr2O3aKZry0B1vmrWbC54T8hxMIKbxVsyw?e=jUCYud).
+
+2. Choose either of the following methods:
+    - **Download APK:** Directly install the app on your Android device.
+    - **Download ZIP File:** Extract the contents into a folder named "AR_Garden."
+
+3. Open Unity Hub on your MAC and follow these steps:
+    - Add a new project with Unity Editor version 2021.3.33.f1.
+    - Select the "AR_Garden" folder as your project directory.
+
+4. In Unity, navigate to `File -> Build Settings -> Build` to generate the APK file.
+
+5. The APK file is now ready for deployment on your Android device. Install and explore the AR Plant Showcase App.
+
+Feel free to contribute to the project or report any issues by creating a pull request or raising an issue on GitHub.
+
+**Note:** Ensure that your Android device is running Android version 7.0 or higher for optimal performance.
+
+
 
